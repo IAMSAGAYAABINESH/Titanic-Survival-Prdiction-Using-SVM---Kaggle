@@ -1,5 +1,7 @@
 # Titanic-Survival-Prdiction-Using-SVM---Kaggle
 
+![titanicillustration 0 0-897x598](https://github.com/IAMSAGAYAABINESH/Titanic-Survival-Prdiction-Using-SVM---Kaggle/assets/76099682/dc708f19-fc73-4a63-a209-1abb753fda81)
+
 In This project Support Vector Machine Classifier Is Used To Predict If The Person Survived The Titanic Shipwreck
 
 Training Data-[train.csv](https://github.com/IAMSAGAYAABINESH/Titanic-Survival-Prdiction-Using-SVM---Kaggle/files/12345387/train.csv)
