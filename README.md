@@ -38,3 +38,4 @@ ________________________________________________________________________________
 **Embarked**: The port where the passenger boarded the Titanic (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 
+to see my other versions of titanic survival prediction : https://www.kaggle.com/sagayaabinesh
